@@ -1,0 +1,6 @@
+date,temperature,rainfall,humidity,month,year,season
+2025-01-01,25.4,0.0,65,1,2025,Winter
+2025-01-02,26.1,1.2,70,1,2025,Winter
+2025-01-03,24.8,0.0,60,1,2025,Winter
+2025-01-04,25.0,0.5,68,1,2025,Winter
+2025-01-05,26.5,0.0,72,1,2025,Winter
